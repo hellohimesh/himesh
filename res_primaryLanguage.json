@@ -1,0 +1,112 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I am Himesh Suthar. Results-driven Software Engineering Manager from Gujarat, India, with expertise in Software Development, Team Management, Technical Leadership, Customer Experience and Market Segmentation. Proven success at Rao Information Technology Pvt. Ltd., managing project timelines, resources, and deliverables. Versatile background as a Full-Stack Developer and self-employed professional. Led diverse projects like the Railway Phone Directory, Trackingo, Pharmboost, Table Buddy, and SuperSee. Master's in Information Technology from Saurashtra University. Proficient in JavaScript, TypeScript, Angular, Node.js, and more.", "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "College-Admin",
+        "startDate": "2016",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and I was responsible for creating features from scratch. Application handles all adoption processes and store and digitalis whole process of college administration .",
+        "images": [
+          "images/portfolio/collegeadmin/COLLEGEADMIN.mp4"],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "php"
+          }
+        ]
+      }
+
+    ],
+    "experience": [
+      {
+        "company": "Rao Information Technology",
+        "title": "Full Stack Developer",
+        "years": "12.2015 - 12.2017",
+        "mainTech": [
+          "Angular 8/9/10" ,"Ionic","PHP"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "Angular Material"
+        ]
+      },    {
+  "company": "FreeLancer/ Self Employed",
+  "title": "Full Stack  Developer",
+  "years": "01.2018 - 01.2020",
+  "mainTech": [
+    "Angular","Nodejs","postgreSQL"
+  ],
+  "technologies": [
+    "RxJS",
+    "PHP",
+    "JavaScript",
+    "Bootstrap",
+    "MDBootstrap",
+    "Angular Material"]
+},
+      {
+        "company": "TINNISCO PVT LTD",
+        "title": "Founder",
+        "years": "01.2020 - 01.2022",
+        "mainTech": [
+          "Agile",  "Team Management","Esri maps","Angular","Nodejs","postgreSQL","Wordpress"
+        ],
+        "technologies": [
+          "ArcGis",
+          "Esri Maps",
+          "Openstreet Maps",
+          "postgreSQL",
+          "Nodejs",
+          "RxJS",
+          "PHP",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "Angular Material"]
+      },
+      {
+        "company": "Bitla Software Pvt Ltd",
+        "title": "Senior Application Developer",
+        "years": "11.2023 - 03.2024",
+        "mainTech": [
+          "Agile","Team Management","Google Maps","Mapmyindia","Openstreet Maps"
+        ],
+        "technologies": [
+          "Ionic",
+          "Angular",
+          "Capacitor"]
+      },
+      {
+        "company": "Rao Information Technology",
+        "title": "Software Engineering Manager",
+        "years": "01.2022 - Present",
+        "mainTech": [
+        "Agile", "Product Development", "Team Management", "Technical Leadership", "Customer Experience "
+        ],
+        "technologies": [
+          "System Design",
+          "System Architecture",
+          "Angular","Nodejs","postgreSQL","MOngodb","Appscript","Electron","Rxjs","Nestjs","Maps SDS","Socket","peer2peer"]
+      }
+    ]
+  }

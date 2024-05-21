@@ -1,0 +1,69 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I am Himesh Suthar.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "College-Admin",
+      "startDate": "2016",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and I was responsible for creating features from scratch. Application handles all adoption processes and store and digitalis whole process of college administration .",
+      "images": [
+        "images/portfolio/collegeadmin/COLLEGEADMIN.mp4"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "php"
+        }
+      ]
+    }
+
+  ],
+  "experience": [
+    {
+      "company": "TINNISCO PVT LTD",
+      "title": "Full Stack Cloud Developer",
+      "years": "01.2018 - PRESENT",
+      "mainTech": [
+        "Angular,React,aws"
+      ],
+      "technologies": [
+        "RxJS",
+        "PHP",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "Angular Material"]
+    },{
+      "company": "Rao Information Technology",
+      "title": "Full Stack Developer",
+      "years": "12.2015 - 12.2017",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "Angular Material"
+      ]
+    }
+  ]
+}

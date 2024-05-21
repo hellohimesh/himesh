@@ -1,0 +1,109 @@
+{
+    "basic_info": {
+      "name": "Himesh Suthar",
+      "titles": [ "Software Engineering Manager" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/hellohimesh",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/hellohimesh/",
+          "class": "fab fa-linkedin"
+        }
+                
+
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "Electron",
+          "class": "devicon-electron-original colored",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "Ionic",
+          "class": "devicon-ionic-original colored",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original colored",
+          "level": "70"
+        },
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "Open Api",
+          "class": "devicon-openapi-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Postgres",
+          "class": "devicon-postgresql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "Google Cloud",
+          "class": "devicon-googlecloud-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain colored",
+          "level": "60"
+        },{
+          "name": "Git",
+          "class": "devicon-git-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain colored",
+          "level": "60"
+        }
+      ]
+    }
+  }
